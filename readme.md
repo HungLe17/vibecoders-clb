@@ -1,19 +1,13 @@
 # The Vibe Coders
 
-A single-page club landing page built with Next.js App Router, TypeScript, and Tailwind CSS.
+A static landing page built with plain HTML, CSS, and JavaScript.
 
-## Development
+## View the website
 
-```sh
-npm install
-npm run dev
-```
+Open `index.html` in your browser.
 
-Open http://localhost:3000. Edit `app/page.tsx` to get started.
+Edit `index.html` for content, `styles.css` for appearance, and `script.js` for the automatic copyright year.
 
-## Checks
+## Hosting
 
-```sh
-npm run lint
-npm run build
-```
+Upload `index.html`, `styles.css`, and `script.js` together to any static web host.
